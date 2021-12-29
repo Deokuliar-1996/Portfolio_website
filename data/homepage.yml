@@ -171,8 +171,8 @@ contact:
   title: "Contact Harsh"
     
   image:
-    x: "1580472952397.jpg"
-    _2x: "1580472952397.jpg"
+    x: "img/works/profile_picture.jpeg"
+    _2x: "img/works/profile_picture.jpeg"
     
   button:
     icon: "icon-mail-fill"
