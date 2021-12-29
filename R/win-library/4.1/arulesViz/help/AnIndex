@@ -1,0 +1,17 @@
+associations2igraph	saveAsGraph
+datatable	inspectDT
+explore	ruleExplorer
+guide_edge_colourbar	plot
+igraph	saveAsGraph
+inspect	inspectDT
+inspectDT	inspectDT
+plot	plot
+plot.grouped_matrix	plot
+plot.itemsets	plot
+plot.rules	plot
+plotly	plot
+ruleExplorer	ruleExplorer
+rules2groupedMatrix	rules2matrix
+rules2matrix	rules2matrix
+saveAsGraph	saveAsGraph
+tidygraph	saveAsGraph

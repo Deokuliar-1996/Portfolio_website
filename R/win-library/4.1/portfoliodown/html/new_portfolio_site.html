@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>R: Creates a New Data Science Portfolio Website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<link rel="stylesheet" type="text/css" href="R.css" />
+</head><body><div class="container">
+
+<table width="100%" summary="page for new_portfolio_site {portfoliodown}"><tr><td>new_portfolio_site {portfoliodown}</td><td style="text-align: right;">R Documentation</td></tr></table>
+
+<h2>Creates a New Data Science Portfolio Website</h2>
+
+<h3>Description</h3>
+
+
+<ul>
+<li><p> Generates the default hugo template skeleton for a Portfolio-Based Data Scientist Website
+</p>
+</li>
+<li><p> Provides 2 starter portfolio templates: <code>raditian</code> and <code>kross</code>.
+</p>
+</li></ul>
+
+
+
+<h3>Usage</h3>
+
+<pre>
+new_portfolio_site(
+  dir = ".",
+  force = NA,
+  install_hugo = TRUE,
+  sample = FALSE,
+  format = "yaml",
+  theme = c("raditian", "kross"),
+  theme_example = TRUE,
+  netlify = TRUE,
+  ...
+)
+</pre>
+
+
+<h3>Arguments</h3>
+
+<table summary="R argblock">
+<tr valign="top"><td><code>dir</code></td>
+<td>
+<p>The directory of the new site.</p>
+</td></tr>
+<tr valign="top"><td><code>force</code></td>
+<td>
+<p>Whether to create the site in a directory even if it is not
+empty. By default, <code>force = TRUE</code> when the directory only contains
+hidden, RStudio project (&lsquo;<span class="file">*.Rproj</span>&rsquo;), &lsquo;<span class="file">LICENSE</span>&rsquo;, and/or
+&lsquo;<span class="file">README</span>&rsquo; files.</p>
+</td></tr>
+<tr valign="top"><td><code>install_hugo</code></td>
+<td>
+<p>Whether to install Hugo automatically if it is not found.</p>
+</td></tr>
+<tr valign="top"><td><code>sample</code></td>
+<td>
+<p>Whether to add sample content. Hugo creates an empty site by
+default, but this function adds sample content by default.</p>
+</td></tr>
+<tr valign="top"><td><code>format</code></td>
+<td>
+<p>The format of the configuration file, e.g., <code>'yaml'</code> or
+<code>'toml'</code> (the value <code>TRUE</code> will be treated as <code>'yaml'</code>, and
+<code>FALSE</code> means <code>'toml'</code>). Note that the frontmatter of the new (R)
+Markdown file created by <code>new_content()</code> always uses YAML instead of
+TOML or JSON.</p>
+</td></tr>
+<tr valign="top"><td><code>theme</code></td>
+<td>
+<p>The theme can be defined in several ways.
+</p>
+<p><strong>Preset themes</strong>
+</p>
+
+<ul>
+<li> <p><code>raditian</code> (default): Custom version of the free hugo raditian theme
+</p>
+</li>
+<li> <p><code>kross</code>: Custom version of the free hugo kross theme
+</p>
+</li></ul>
+
+<p><strong>A Hugo theme on Github</strong>
+</p>
+
+<ul>
+<li><p> A character string of the form user/repo
+</p>
+</li>
+<li><p> A GIT branch or tag name after @, i.e. theme can be of the form user/repo@branch).
+</p>
+</li>
+<li><p> A full URL to the zip file or tarball of the theme.
+</p>
+</li></ul>
+
+<p><strong>No Theme</strong>
+</p>
+<p>If <code>theme = NA</code>, no themes will be installed, and you have to manually install a theme.</p>
+</td></tr>
+<tr valign="top"><td><code>theme_example</code></td>
+<td>
+<p>Whether to copy the example in the &lsquo;<span class="file">exampleSite</span>&rsquo;
+directory if it exists in the theme. Not all themes provide example sites.</p>
+</td></tr>
+<tr valign="top"><td><code>netlify</code></td>
+<td>
+<p>Whether to create a Netlify config file &lsquo;<span class="file">netlify.toml</span>&rsquo;.</p>
+</td></tr>
+<tr valign="top"><td><code>...</code></td>
+<td>
+<p>Additional arguments can be passed to <code><a href="../../blogdown/help/hugo_cmd.html">blogdown::new_site()</a></code>.</p>
+</td></tr>
+</table>
+
+<hr /><div style="text-align: center;">[Package <em>portfoliodown</em> version 0.0.0.9000 <a href="00Index.html">Index</a>]</div>
+</div></body></html>

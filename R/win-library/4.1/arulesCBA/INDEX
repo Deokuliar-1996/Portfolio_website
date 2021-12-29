@@ -1,0 +1,20 @@
+CBA                     Classification Based on Association Rules
+                        Algorithm (CBA)
+CBA_helpers             Helper Functions For Dealing with Classes
+CBA_ruleset             Constructor for Objects for Classifiers Based
+                        on Association Rules
+FOIL                    Use FOIL to learn a rule set for classification
+LUCS_KDD_CBA            Interface to the LUCS-KDD Implementations of
+                        CMAR, PRM and CPAR
+Lymphography            The Lymphography Domain Data Set (UCI)
+Mushroom                The Mushroom Data Set (UCI)
+RCAR                    Regularized Class Association Rules for
+                        Multi-class Problems (RCAR+)
+RWeka_CBA               CBA classifiers based on rule-based classifiers
+                        in RWeka
+discretizeDF.supervised
+                        Supervised Methods to Convert Continuous
+                        Variables into Categorical Variables
+mineCARs                Mine Class Association Rules
+prepareTransactions     Prepare Data for Associative Classification
+transactions2DF         Convert Transactions to a Data.Frame

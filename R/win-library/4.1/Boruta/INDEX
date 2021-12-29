@@ -1,0 +1,14 @@
+Boruta                  Feature selection with the Boruta algorithm
+TentativeRoughFix       Rough fix of Tentative attributes
+attStats                Extract attribute statistics
+getConfirmedFormula     Export Boruta result as a formula
+getImpExtra             ranger Extra-trees importance adapters
+getImpFerns             Random Ferns importance
+getImpLegacyRf          randomForest importance adapters
+getImpRf                ranger Random Forest importance adapters
+getImpXgboost           Xgboost importance
+getSelectedAttributes   Extract names of the selected attributes
+plot.Boruta             Plot Boruta object
+plotImpHistory          Plot Boruta object as importance history
+print.Boruta            Print Boruta object
+srx                     Small redundant XOR data

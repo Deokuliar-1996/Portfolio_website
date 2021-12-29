@@ -1,0 +1,34 @@
+Package: portfoliodown
+Title: Data Science Portfolio Website Builder
+Version: 0.0.0.9000
+Authors@R: 
+    c(
+    person("Matt", "Dancho", email = "mdancho@business-science.io", role = c("aut", "cre"))
+  )
+Description: 
+    Makes it painless for data scientists to create a polished 
+    professional website so they can host their project portfolios (and get great job interviews). 
+    The hugo theme is based on the Raditian Free Hugo Theme. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: blogdown, usethis
+Suggests: rmarkdown, knitr, covr
+VignetteBuilder: knitr
+URL: https://business-science.github.io/portfoliodown/
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: portfoliodown
+RemoteUsername: business-science
+RemoteRef: HEAD
+RemoteSha: 086a8198569eec3ca6f83c342052410b28558d8a
+GithubRepo: portfoliodown
+GithubUsername: business-science
+GithubRef: HEAD
+GithubSHA1: 086a8198569eec3ca6f83c342052410b28558d8a
+NeedsCompilation: no
+Packaged: 2021-12-28 06:27:23 UTC; harshdeokuliar
+Author: Matt Dancho [aut, cre]
+Maintainer: Matt Dancho <mdancho@business-science.io>
+Built: R 4.1.1; ; 2021-12-28 06:27:24 UTC; windows

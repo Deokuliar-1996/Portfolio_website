@@ -1,0 +1,85 @@
+add_attributes          Add attribute values to an existing element in
+                        a given PMML file.
+add_data_field_attributes
+                        Add attribute values to an existing DataField
+                        element in a given PMML file
+add_data_field_children
+                        Add 'Interval' and 'Value' child elements to a
+                        given DataField element in a given PMML file.
+add_mining_field_attributes
+                        Add attribute values to an existing MiningField
+                        element in a given PMML file.
+add_output_field        Add Output nodes to a PMML object.
+audit                   Audit: artificially constructed dataset
+file_to_xml_node        Read in a file and parse it into an object of
+                        type XMLNode.
+function_to_pmml        Convert an R expression to PMML.
+houseVotes84            Modified 1984 United States Congressional
+                        Voting Records Database
+make_intervals          Create Interval elements, most likely to add to
+                        a DataDictionary element.
+make_output_nodes       Add Output nodes to a PMML object.
+make_values             Create Values element, most likely to add to a
+                        DataDictionary element.
+pmml                    Generate the PMML representation for R objects.
+pmml.ARIMA              Generate PMML for an ARIMA object the
+                        *forecast* package.
+pmml.ada                Generate the PMML representation for an ada
+                        object from the package 'ada'.
+pmml.coxph              Generate the PMML representation for a coxph
+                        object from the package 'survival'.
+pmml.cv.glmnet          Generate the PMML representation for a
+                        cv.glmnet object from the package 'glmnet'.
+pmml.gbm                Generate the PMML representation for a gbm
+                        object from the package 'gbm'.
+pmml.glm                Generate the PMML representation for a glm
+                        object from the package 'stats'.
+pmml.hclust             Generate the PMML representation for a hclust
+                        object from the package 'amap'.
+pmml.iForest            Generate PMML for an iForest object from the
+                        *isofor* package.
+pmml.kmeans             Generate the PMML representation for a kmeans
+                        object from the package 'stats'.
+pmml.ksvm               Generate the PMML representation for a ksvm
+                        object from the package 'kernlab'.
+pmml.lm                 Generate the PMML representation for an lm
+                        object from the package 'stats'.
+pmml.multinom           Generate the PMML representation for a multinom
+                        object from package 'nnet'.
+pmml.naiveBayes         Generate the PMML representation for a
+                        naiveBayes object from the package 'e1071'.
+pmml.neighbr            Generate PMML for a neighbr object from the
+                        *neighbr* package.
+pmml.nnet               Generate the PMML representation for a nnet
+                        object from package 'nnet'.
+pmml.randomForest       Generate the PMML representation for a
+                        randomForest object from the package
+                        'randomForest'.
+pmml.rfsrc              Generate the PMML representation for an rfsrc
+                        object from the package 'randomForestSRC'.
+pmml.rpart              Generate the PMML representation for an rpart
+                        object from the package 'rpart'.
+pmml.rules              Generate the PMML representation for a rules or
+                        an itemset object from package 'arules'.
+pmml.svm                Generate the PMML representation of an svm
+                        object from the 'e1071' package.
+pmml.xgb.Booster        Generate PMML for a xgb.Booster object from the
+                        package 'xgboost'.
+rename_wrap_var         Rename a variable in the xform_wrap transform
+                        object.
+save_pmml               Save a pmml object as an external PMML file.
+xform_discretize        Discretize a continuous variable as indicated
+                        by interval mappings in accordance with the
+                        PMML element *Discretize*.
+xform_function          Add a function transformation to a xform_wrap
+                        object.
+xform_map               Implement a map between discrete values in
+                        accordance with the PMML element *MapValues*.
+xform_min_max           Normalize continuous values in accordance with
+                        the PMML element *NormContinuous*.
+xform_norm_discrete     Normalize discrete values in accordance with
+                        the PMML element *NormDiscrete*.
+xform_wrap              Wrap data in a data transformations object.
+xform_z_score           Perform a z-score normalization on continuous
+                        values in accordance with the PMML element
+                        *NormContinuous*.

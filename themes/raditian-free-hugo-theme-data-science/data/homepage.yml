@@ -1,0 +1,190 @@
+head:
+  title: "Harsh Deokuliar Resume"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Harsh Deokuliar."
+  subtitle: "Data Professional"
+  description: "A Data professional with 3 years of experience in both the developer and administrator roles in the big data domain including tools like Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. Experience working with teams in a fast-paced platform creating, communicating, and implementing business solutions for clients."
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Harsh"
+    URL: "mailto:hjd5216@psu.edu"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/harshdeokuliar/"
+
+    - icon: "github"
+      URL: "https://github.com/Deokuliar-1996"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/HDeokuliar"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/harsh.deokuliar.58"
+
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I am currently a Graduate student at Penn State University doing my masters in Data Analytics. Data Analytics and Machine Learning has been the key focus of my current research and my career goals.I love using data-driven solutions to solve business problems and gain insights.</strong> Apart from data, I am a big sports fan especially the NBA(Go Knicks!!!) and soccer(Go Red Devils!!!).
+   	</p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to improve business efficiency.I want to use data to to be able to help businesses and organizations make better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/harshdeokuliar/"
+  image:
+    x: "1580472952397.jpg"
+    _2x: "1580472952397.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "A Data professional with 3 years of experience in both the developer and administrator roles in the big data domain."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/harshdeokuliar/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "View My Resume"
+    URL: "https://drive.google.com/file/d/1BMliGZDOXcsvMZM1AkUUOHV-3g1K7fPg/view?usp=sharing"
+
+  items:
+    - title: "Graduate Research Assistant"
+      company: "Penn State University"
+      duration: "Sept 2021 - Current"
+
+    - title: "Application Administrator"
+      company: "L&T infotech"
+      duration: "Jan 2019 - Jul 2021"
+
+    - title: "Application Developer/Tester"
+      company: "L&T infotech"
+      duration: "Jun 2018 - Dec 2018"
+
+    - title: "Technical Intern"
+      company: "AT&T Communication Services"
+      duration: "Jan 2018 - Jun 2018"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Penn State University Great Valley"
+      year: "2021-2023"
+      degree: "Master of Science - Data Analytics"
+      
+    - university: "PES University"
+      year: "2014-2018"
+      degree: "Bachelor of Technology - Electronics and Communication Engineering"
+
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Analysis of the 2020-2021 Premier league season (Soccer)"
+      description: "This project includes an EDA of the 2020-2021 Premier league season to gain insights and also contains a machine learning model to improve under the radar players to improve your fantasy team."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Visit Github Repository"
+        URL: "https://github.com/Deokuliar-1996/EPL-2020-2021"
+      image:
+        x: "img/works/FPL-project.JPG"
+        _2x: "img/works/FPL-project.JPG"
+      is_even: true
+
+    - title: "Cryptocurrency Sentiment Analysis"
+      description: "This project uses popular Reddit pages as a source for sentiment analysis of popular cryptocurrencies like Bitcoin,Ethereum,Cardano to make better investment/price point predictions.The goal of this project is to use the sentiment to make smart decisions on when to buy/sell these tokens to maximize profit."
+      button:
+        icon: "icon"
+        btnText: "Coming Soon!!"
+        URL: ""
+      image:
+        x: "img/works/crypto.JPG"
+        _2x: "img/works/crypto.JPG"
+      is_even: false
+
+
+    - title: "Statistics and Machine Learning: World Happiness Analysis"
+      description: "The goal of this project was to do an extensive statistical study on the Gallup World Poll Happiness Dataset.It contains happiness data for various countries based on various factors.It also contains a multivariate regression followed by a tableau dashboard to demonstrate our findings."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Tableau Dashboard"
+        URL: "https://github.com/Deokuliar-1996/Happiness_Score"
+      image:
+        x: "img/works/Happiness_gif.gif"
+        _2x: "img/works/Happiness_gif.gif"
+      is_even: false
+
+
+# contact
+contact:
+  enable: true
+  title: "Contact Harsh"
+    
+  image:
+    x: "1580472952397.jpg"
+    _2x: "1580472952397.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:hjd5216@psu.edu'
+    
+  phone:
+    title: "Phone Number"
+    number: "610-864-6831"
+  email:
+    title: "Email"
+    email: '<a href="mailto:hjd5216@psu.edu">hjd5216@psu.edu</a>'
+  address:
+    title: "Address"
+    address: "27E Central Ave Apt I2, Paoli,PA 19301"
