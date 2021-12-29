@@ -43,8 +43,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/harshdeokuliar/"
   image:
-    x: "1580472952397.jpg"
-    _2x: "1580472952397.jpg"
+    x: "img/works/profile_picture.jpeg"
+    _2x: "img/works/profile_picture.jpeg"
 
 # experience
 experience:
