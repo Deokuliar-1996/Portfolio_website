@@ -159,7 +159,7 @@ client_and_work:
       
     
     - title: "Retail image classification and regression"
-      description: "•	An end-to-end Machine learning project including data scraping, data processing, data modeling and model deployment using streamlit.•	A computer vision project consisting of DenseNet201 and InceptionV3 models to identify brand names and prices of products. "
+      description: "An end-to-end Machine learning project including data scraping, data processing, data modeling and model deployment using streamlit.This computer vision project consists of DenseNet201 and InceptionV3 models to identify brand names and prices of products. "
       button:
         icon: "icon-arrow-right"
         btnText: "Visit Github Repository"
