@@ -6,7 +6,8 @@ showcase:
   enable: true
   title: "Hello, I’m Harsh Deokuliar."
   subtitle: "Data Professional"
-  description: "A Data professional with 3+ years of experience in both the developer and administrator roles in the big data domain including tools like Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. Most recently I interned at PPL corporation as a data science intern. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. Experience working with teams in a fast-paced platform creating, communicating, and implementing business solutions for clients."
+  description: "A Data professional with 3+ years of experience as a Data Scientist, Data Engineer and Big Data Developer using tools like Python , SQL , Machine Learning , Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. Most recently I interned at PPL corporation as a data science intern. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. 
+  working with teams in a fast-paced platform creating, communicating, and implementing business solutions for clients."
 
   button:
     icon: "icon-mail-fill"
@@ -50,7 +51,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "A Data professional with 3+ years of experience in various roles like data scientist, big data developer and application administrator in the big data domain."
+  description: "A Data professional with 3+ years of experience in various roles like data scientist, Data Engineer and Big Data Developer."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
