@@ -6,13 +6,12 @@ showcase:
   enable: true
   title: "Hello, I’m Harsh Deokuliar."
   subtitle: "Data Professional"
-  description: "A Data professional with 3+ years of experience as a Data Scientist, Data Engineer and Big Data Developer using tools like Python , SQL , Machine Learning , Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. Most recently I interned at PPL corporation as a data science intern. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. 
-  working with teams in a fast-paced platform creating, communicating, and implementing business solutions for clients."
+  description: "A Data professional with 3+ years of experience as a Business Strategy Analyst, Data Scientist, Data Engineer and Big Data Developer using tools like Python , SQL , Machine Learning , Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. I currently work as a Business Strategy Analyst at USAA. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. Experienced working with teams in a fast-paced platform creating, communicating, and implementing business solutions for stakeholders and clients."
 
   button:
     icon: "icon-mail-fill"
     btnText: "Contact Harsh"
-    URL: "mailto:hjd5216@psu.edu"
+    URL: "mailto:harshdeojob@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
@@ -34,7 +33,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I am currently a Graduate student at Penn State University doing my masters in Data Analytics. Data Analytics and Machine Learning has been the key focus of my current research and my career goals.I love using data-driven solutions to solve business problems and gain insights.</strong> Apart from data, I am a big sports fan especially the NBA(Go Knicks!!!) and soccer(Go Red Devils!!!).
+    <strong>I am currently working as a Business Strategy analyst at USAA.Most recently I graduated from Penn State University with a masters degree in Data Analytics. Data Analytics and Machine Learning has been the key focus of my current research and my career goals.I love using data-driven solutions to solve business problems and gain insights.</strong> Apart from data, I am a big sports fan especially the NBA(Go Knicks!!!) and soccer(Go Red Devils!!!).
    	</p>
     <p class="lead">
     <strong>My area of focus</strong> is applying data science to improve business efficiency.I want to use data to to be able to help businesses and organizations make better decisions with data.
@@ -51,7 +50,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "A Data professional with 3+ years of experience in various roles like data scientist, Data Engineer and Big Data Developer."
+  description: "A Data professional with 3+ years of experience in various roles like Business Strategy Analyst, Data Scientist, Data Engineer and Big Data Developer."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -59,12 +58,16 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "View My Resume"
-    URL: "https://drive.google.com/file/d/1q__4j_JI70kr_X-GMzHLHOQ94ws3DRrl/view?usp=sharing"
+    URL: "https://drive.google.com/file/d/1koTZeO3PRRlhLR6ETGVbq3bLMKkjgIuF/view?usp=drive_link"
 
   items:
+    - title: "Business Strategy Analyst II"
+      company: "USAA"
+      duration: "June 2021 - Current"
+
     - title: "Graduate Research Assistant"
       company: "Penn State University"
-      duration: "Sept 2021 - Current"
+      duration: "Sept 2021 - May 2023"
 
     - title: "Data Science and Analytics intern"
       company: "PPL Corporation"
@@ -195,7 +198,7 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:hjd5216@psu.edu'
+    btnAction: 'mailto:harshdeojob@gmail.com'
     
   phone:
     title: "Phone Number"
@@ -205,4 +208,4 @@ contact:
     email: '<a href="mailto:hjd5216@psu.edu">hjd5216@psu.edu</a>'
   address:
     title: "Address"
-    address: "27E Central Ave Apt C5, Paoli,PA 19301"
+    address: "3711 Medical Dr, San Antonio, Texas 78229"
