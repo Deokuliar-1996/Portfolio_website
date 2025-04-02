@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Harsh Deokuliar."
   subtitle: "Data Professional"
-  description: "A Data professional with 3+ years of experience as a Business Strategy Analyst, Data Scientist, Data Engineer and Big Data Developer using tools like Python , SQL , Machine Learning , Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. I currently work as a Business Strategy Analyst at USAA. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. Experienced working with teams in a fast-paced platform creating, communicating, and implementing business solutions for stakeholders and clients."
+  description: "A Data professional with 5+ years of experience as a Business Strategy Analyst, Data Scientist, Data Engineer and Big Data Developer using tools like Python , SQL , Machine Learning , Hive, Gemfire, SpringXD, Pyspark, Spark-SQL, HDFS. I currently work as a Business Strategy Analyst at USAA. Self-motivated, fast learner, eager to contribute expertise to data science, machine learning and deep learning methodologies. Experienced working with teams in a fast-paced platform creating, communicating, and implementing business solutions for stakeholders and clients."
 
   button:
     icon: "icon-mail-fill"
@@ -50,7 +50,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "A Data professional with 3+ years of experience in various roles like Business Strategy Analyst, Data Scientist, Data Engineer and Big Data Developer."
+  description: "A Data professional with 5+ years of experience in various roles like Business Strategy Analyst, Data Scientist, Data Engineer and Big Data Developer."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -58,12 +58,12 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "View My Resume"
-    URL: "https://drive.google.com/file/d/1koTZeO3PRRlhLR6ETGVbq3bLMKkjgIuF/view?usp=drive_link"
+    URL: "https://drive.google.com/drive/u/0/folders/1RWANfStNBlCOGVYNAk-y-73KjONsnpYq"
 
   items:
     - title: "Business Strategy Analyst II"
       company: "USAA"
-      duration: "June 2021 - Current"
+      duration: "June 2023 - Current"
 
     - title: "Graduate Research Assistant"
       company: "Penn State University"
